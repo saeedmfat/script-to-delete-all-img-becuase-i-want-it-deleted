@@ -7,5 +7,3 @@
 **Hope:** not required
 
 Everything Docker dies. No backups. No apologies.
-
-✨ Fork this if you're fearless.
